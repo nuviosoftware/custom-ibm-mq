@@ -31,3 +31,7 @@ Defined in the '20-config.mqsc' file
 DEFINE QLOCAL('ORDER.REQUEST') REPLACE
 DEFINE QLOCAL('ORDER.RESPONSE') REPLACE
 ```
+
+### Mq Web console
+Browse to the address
+https://localhost:9443/ibmmq/console
